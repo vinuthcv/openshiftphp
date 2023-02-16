@@ -5,7 +5,7 @@
 	</head>
 
 <body> 
-	<h1>Mayank MOdis Application </h1>
+	<h1>Vinuth application forked and updated</h1>
 		<p><b>DanskeIT Training Day4 </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
